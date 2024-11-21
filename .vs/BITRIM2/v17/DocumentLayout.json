@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\my\\pp\\repos\\BITRIM2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0A8B92-F2D0-4D4D-8FA7-E42203BE50B3}|BITRIM2\\BITRIM2.pyproj|D:\\my\\pp\\repos\\BITRIM2\\BITRIM2\\BITRIM2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ED0A8B92-F2D0-4D4D-8FA7-E42203BE50B3}|BITRIM2\\BITRIM2.pyproj|solutionrelative:BITRIM2\\BITRIM2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BITRIM2.py",
+              "DocumentMoniker": "D:\\my\\pp\\repos\\BITRIM2\\BITRIM2\\BITRIM2.py",
+              "RelativeDocumentMoniker": "BITRIM2\\BITRIM2.py",
+              "ToolTip": "D:\\my\\pp\\repos\\BITRIM2\\BITRIM2\\BITRIM2.py",
+              "RelativeToolTip": "BITRIM2\\BITRIM2.py",
+              "ViewState": "AQIAANYAAAAAAAAAAAAUwCoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-03T20:41:47.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

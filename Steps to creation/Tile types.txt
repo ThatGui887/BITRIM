@@ -1,0 +1,26 @@
+Terrain Tiles:
+
+Grass
+Dirt
+Stone/Pathway
+Water
+Sand
+Environment Features:
+
+Trees
+Rocks
+Bushes
+Small buildings (like houses or huts)
+Decorative objects (barrels, crates)
+Functional Tiles:
+
+Bridges
+Stairs (up/down for vertical movement)
+Doors
+Traps
+Special Tiles:
+
+Crafting stations
+Treasure chests
+Campfires
+Altar/magic circles

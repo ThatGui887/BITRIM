@@ -1,0 +1,3 @@
+the bullets follow the changes  in direction depenbding on where the player is moving
+the ammo drops fall through the floor
+

@@ -1,0 +1,66 @@
+Skyrim Core Gameplay Elements
+
+1. Exploration
+   - Open-world exploration with diverse biomes: mountains, forests, caves, and dungeons.
+   - Discovering locations: towns, cities, landmarks, and secret areas.
+   - Fast travel system and map usage.
+
+2. Combat
+   - Melee combat with swords, axes, and other weapons.
+   - Ranged combat with bows and crossbows.
+   - Magic combat with various spells (destruction, conjuration, restoration).
+   - Stealth mechanics, including sneak attacks and critical hits.
+   - Block and parry system.
+
+3. Character Development
+   - Character customization at the beginning (race, gender, appearance).
+   - Leveling system with experience points (XP) and leveling up.
+   - Skill trees for combat, magic, stealth, and crafting abilities.
+   - Perks that enhance skills and unlock special abilities.
+
+4. Quests
+   - Main story quests involving the Dragonborn and the fight against dragons.
+   - Faction quests (Thieves Guild, Dark Brotherhood, Companions, etc.).
+   - Side quests ranging from simple tasks to complex storylines.
+   - Radiant quests (procedurally generated missions).
+
+5. Crafting and Economy
+   - Crafting systems: Smithing (weapons/armor), Alchemy (potions), Enchanting (magic items).
+   - Collecting resources: mining, gathering plants, looting enemies.
+   - Buying, selling, and trading with NPCs.
+
+6. NPC Interaction
+   - Dialogue system with NPCs, including choices that affect outcomes.
+   - Companions and followers who can assist in combat and carry items.
+   - Relationships: marriage, friendship, and rivalries.
+
+7. World Events
+   - Random encounters: bandit attacks, dragon fights, wildlife interactions.
+   - Dynamic world changes based on player actions (e.g., civil war outcomes).
+
+8. Magic and Shouts
+   - Magic schools: Destruction, Restoration, Alteration, Conjuration, Illusion.
+   - Dragon shouts (Thu'um) that grant powerful abilities.
+   - Learning new shouts from dragon words scattered across the world.
+
+9. Stealth and Thievery
+   - Sneaking mechanics: staying hidden, pickpocketing, lockpicking.
+   - Avoiding detection by staying in shadows and reducing noise.
+   - Crimes and bounty system: stealing, assault, murder, and consequences.
+
+10. Survival Elements
+   - Managing health, stamina, and magicka.
+   - Dealing with environmental hazards: cold, traps, poison.
+   - Food and potion consumption to maintain stats.
+
+11. Customization and Mods
+   - Modifiable gameplay through community mods (adding new quests, items, mechanics).
+   - In-game customization of items, homes, and gear.
+
+12. Environmental Interaction
+   - Interacting with objects: levers, doors, traps.
+   - Climbing, swimming, and traversing varied terrain.
+
+13. Visual Style
+   - Pixel resolution(32x32)
+   -Isometric view
